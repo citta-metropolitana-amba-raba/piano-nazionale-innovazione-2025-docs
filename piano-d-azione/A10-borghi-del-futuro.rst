@@ -1,12 +1,12 @@
 A10 - Borghi del futuro 
 ========================
 
-COSA
-------
+**COSA**
+
 L’innovazione è come le arti, la cultura, l’ingegno: contagiosa e virale. Storicamente la bellezza ha generato bellezza, l’arte prodotto nuova arte, la cultura dato vita ad altra cultura. Gli artisti hanno attratto altri artisti, gli architetti altri architetti, gli inventori altri inventori. È arrivato il momento di rendere l’Italia grande ancora una volta. **Concentrare l’innovazione in piccoli centri** attirerà altra innovazione, le aziende innovatrici attireranno altre imprese innovatrici, le Pubbliche Amministrazioni convertite al digitale contageranno di modernità le amministrazioni vicine.
 
-COME
------
+**COME**
+
 La prima fase sarà la progettazione di un “borgo del futuro” nel quale concentrare tutte le tecnologie emergenti e, naturalmente, digitalizzare completamente l’amministrazione. Il progetto, disegnato **lavorando con la cabina di regia dei Ministri** sarà composto da alcuni requisiti di base per tutti i “borghi del futuro” e da taluni requisiti specifici che
 contraddistingueranno un borgo dall’altro, tenendo conto di eccellenze e peculiarità territoriali. Molta attenzione verrà dedicata alla sostenibilità ambientale e alla *circular economy.*
 
