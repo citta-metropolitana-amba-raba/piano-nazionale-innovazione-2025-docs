@@ -27,9 +27,5 @@ L’attuazione della strategia si basa anche sull’utilizzo di diversi fondi di
 - fondi non ancora impegnati, afferenti a programmi nazionali e europei (es: Fondi Pon, Pon gov, Fondi di Coesione);
 - fondi già disponibili o di nuova programmazione grazie ad una rinnovata collaborazione con il Dipartimento della funzione pubblica. 
 
-.. toctree::
-   :maxdepth: 3
-
-   la-strategia/cosa-e-stato-fatto.rst
    
 
