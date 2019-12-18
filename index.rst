@@ -4,7 +4,7 @@ L’innovazione e la digitalizzazione devono far parte di una riforma struttural
 
 .. toctree::
    :maxdepth: 3
-   :caption: Indice dei contenuti a
+   :caption: Indice dei contenuti 
 
    introduzione.rst
    la-strategia.rst
