@@ -1,12 +1,11 @@
 A14 - Cross-Tech hub Italia
 ============================
 
-COSA
------
+**COSA**
+
 L’innovazione produce innovazione, la tecnologia genera tecnologia. Sono contagiose e virali, contaminano. Il contesto in cui si opera è importante nei processi di trasformazione. Risorse economiche e ecosistema normativo a parte, ci sarà pure una ragione se la Silicon Valley è la Silicon Valley, e se tra il quartier generale di Google e quello di Facebook ci sono appena trenta minuti di bicicletta. È necessario creare anche in Italia ambienti ad alto potenziale tecnologico e innovativo.
 
-COME
------
+**COME**
 
 Il progetto prevede la creazione, lo sviluppo e la crescita, attraverso partnership pubblicoprivato, in coordinamento con gli altri Ministeri competenti, di **hub tecnologici cross industries** nel rispetto delle eccellenze dei territori nei quali i centri si insediano e partendo dalle eccellenze che già esistono nel nostro Paese.
 
