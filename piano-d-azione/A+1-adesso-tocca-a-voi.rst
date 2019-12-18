@@ -1,4 +1,4 @@
-A+1 - Adesso tocca a voi
+A+1: adesso tocca a voi
 ==================
 
 Adesso tocca a voi: interconnessione con tutti i gruppi di interesse
