@@ -2,7 +2,7 @@ Piano d'azione: le prime 20 (+1) azioni per trasformare il Paese
 ================================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    piano-d-azione/A01-governance.rst
    piano-d-azione/A02-identita-digitale.rst
